@@ -1,0 +1,17 @@
+.match-parent {
+  width: 50%;
+  height: 500px;
+}
+.btn {
+  padding: 5px !important;
+}
+.input {
+  border-bottom: 60px;
+  padding-bottom: 70px;
+  position: relative;
+}
+
+.fix {
+  padding-top: 120px;
+  position:relative;
+}
